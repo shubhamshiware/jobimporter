@@ -96,8 +96,8 @@ Access the admin interface at `http://localhost:3000` to view import history and
 
 -> Backend (.env in /server)
 
-MONGO_URI=mongodb+srv://user123:EHc0dB43WpqycSvE@cluster0.7lhwy.mongodb.net/mern_task_manager?retryWrites=true&w=majority
-REDIS_URL=redis://default:lBk7E7npW4Nsj83IFCxCTEm05mbTRDN2@redis-17695.c301.ap-south-1-1.ec2.redns.redis-cloud.com:17695
+MONGO_URI= MONGO_URI=MONGO_URI=mongodb+srv://username:password@cluster0.mongodb.net/mydatabase
+REDIS_URL=REDIS_URL=redis://default:password@redis-12345.c15.us-east-1-2.ec2.cloud.redislabs.com:12345
 
 PORT=5000
 
